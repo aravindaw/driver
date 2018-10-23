@@ -1,4 +1,4 @@
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.nyholmniklas/arithmetic/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.nyholmniklas/arithmetic)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.aravindaw/driver/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.nyholmniklas/arithmetic)
 
 # driver
 This project is developed based on selenium webdriver. I developed this project for the easiness of
